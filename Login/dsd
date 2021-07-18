@@ -1,0 +1,23 @@
+<?php 
+
+if(isset($_POST['otp'])){
+
+
+
+
+    $_GET['name'];
+  $_GET['email'];
+
+ $_GET['phone'];
+
+ $_GET['password'];
+
+ $_GET['otp'];
+  $_POST['otp_no'];
+if(){}
+
+
+}
+
+
+?>
